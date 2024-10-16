@@ -1,0 +1,1 @@
+var json_Redvers_4 = {"type":"FeatureCollection","name":"Redvers_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Kyaliwajala","descriptio":"Redvers"},"geometry":{"type":"Point","coordinates":[32.64681533334354,0.380595056772613]}}]}
